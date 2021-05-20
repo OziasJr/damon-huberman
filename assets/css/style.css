@@ -54,6 +54,7 @@ img {
 
 .header nav {
     background: linear-gradient(135deg, #000000, #4d5455);
+    height: 130px;
 }
 
 
@@ -170,7 +171,7 @@ img {
 
 .youtube, .facebook, .instagram {
     text-align: center;
-    margin-bottom: 0;
+    margin-bottom: 30px;
 }
 
 .fb-page {
@@ -224,11 +225,37 @@ img {
     grid-column: 2 / 2;
 }
 
-.inst > a > img {
-    width: 200px;
-    height: 200px;
+.img-instagram {
+    width: 500px;
+    height: 500px;
 }
 
+.img-instagram a,
+.img-instagram img {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 164px;
+    height: 164px;
+}
+
+.inst > a > img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.inst {
+    margin: auto;
+}
+
+.img-one {
+    margin-bottom: 3px;
+}
+
+.img-two {
+    margin-bottom: 30px;
+}
 
 
 
@@ -245,28 +272,23 @@ img {
 .end .send > div > a > img {
     width: 50px;
     height: 50px;
+    margin-bottom: 30px;
+}
+
+.end > div > p {
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 .end h5 {
     margin-bottom: 0;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 .img5, .img6 {
-    width: 100vw;
+    width: 100%;
 }
-
-.img5 {
-    grid-column: 1 / 1;
-    grid-row: span 1;
-}
-
-.img6 {
-    grid-column: 2 / 2;
-    grid-row: span 1;
-}
-
-
-
 
 
 
@@ -276,6 +298,7 @@ img {
 .footer {
     grid-area: footer;
     background: linear-gradient(135deg, #000000, #4d5455);
+    height: 130px;
 }
 
 .footer img {

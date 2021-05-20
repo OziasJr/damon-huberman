@@ -16,7 +16,7 @@
           <ul class="d-flex">
             <li><a href="#" class="btn p-3 text-secondary"><b>Home</b></a></li>
             <li><a href="#" class="btn p-3 text-white">Sobre</a></li>
-            <li><a href="#" class="btn p-3 text-white">Image and Style</a></li>
+            <li><a href="#" class="btn p-3 text-white">Consultoria de Imagem e Estilo</a></li>
             <li><a href="#" class="btn p-3 text-white">Contato</a></li>
           </ul>
           <form action="" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
@@ -95,12 +95,17 @@
             <a href="https://www.instagram.com/" target="_blank"><img src="./assets/icon/instagram.svg
             " alt=""></a>
             <div class="img-instagram">
-              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram01.jpg" alt=""></a>
-              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram02.jpg" alt=""></a>
-              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram03.jpg" alt=""></a>
-              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram04.jpg" alt=""></a>
-              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram05.jpg" alt=""></a>
-              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram06.jpg" alt=""></a>
+              <div class="img-one d-flex justify-between">
+                <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram01.jpg" alt=""></a>
+                <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram02.jpg" alt=""></a>
+                <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram03.jpg" alt=""></a>
+              </div>
+              <div class="img-two d-flex justify-between">
+                <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram04.jpg" alt=""></a>
+                <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram05.jpg" alt=""></a>
+                <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram06.jpg" alt=""></a>
+              </div>
+              <button type="button" class="btn p-3 btn-primary d-flex mx-auto">Siga-me no instagram</button>
             </div>
           </div>
         <div class="col-wide end">
@@ -115,9 +120,11 @@
             </div>
           </div>
           <h5 class="col-wide">Aproveite para ler também:</h5>
+          <div class="img-end d-flex justify-content-between">
+            <a href="#"><img class="img-fluid img5" src="./assets/img/img5@1,5x.png" alt=""></a>
+            <a href="#"><img class="img-fluid img6" src="./assets/img/img6@1,5x.png" alt=""></a>
+          </div>
         </div>
-        <a href="#"><img class="img5" src="./assets/img/img5@1,5x.png" alt=""></a>
-        <a href="#"><img class="img6" src="./assets/img/img6@1,5x.png" alt=""></a>
       </main>
       <footer class="footer text-white align-items-center d-flex justify-content-between">
         <p class="p-4">© Damon Huberman - 2021 - Todos os direitos reservados</p>
