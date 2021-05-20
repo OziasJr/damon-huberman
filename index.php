@@ -90,7 +90,6 @@
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptas, expedita quod sunt consectetur asperiores quo ex cumque vero unde quas debitis fuga. Fugiat harum laudantium aliquid! Quibusdam error odio asperiores itaque voluptas voluptates aut tempore accusamus molestias! Quidem, consequuntur veniam error cum odio enim, repudiandae aspernatur mollitia incidunt vel similique obcaecati reiciendis voluptatem quod nobis, quibusdam corporis ullam accusamus? Quasi tempora provident et, doloribus ipsam optio voluptatibus explicabo. Reprehenderit debitis officia blanditiis ipsum incidunt unde numquam quod nesciunt ab neque. Similique perspiciatis veritatis numquam dolore hic explicabo eaque quidem? Repudiandae, dicta. Commodi minus porro similique accusantium esse necessitatibus sapiente.</p>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet, id reiciendis. Debitis consectetur sunt placeat quas repellat sint aliquam mollitia sapiente sequi totam et illo dolorem doloremque nulla, modi at iure nostrum ab! Nemo saepe necessitatibus, explicabo, quidem culpa tempora praesentium dolores nisi molestias nesciunt vitae maiores repellat fugit vero exercitationem quia dicta eaque deleniti. Velit, maxime. Tempore molestias provident dolores numquam necessitatibus. Non saepe omnis culpa atque vero eveniet soluta, enim cum pariatur similique cupiditate. Deleniti, cumque unde. Nobis ratione eaque voluptates alias quae, corporis voluptate eius blanditiis cum cupiditate, amet earum culpa labore rerum veritatis. Totam, laborum corporis?</p>
         </div>
-        <div>
           <div class="instagram"><h4>My Instagram</h4></div>
           <div class="inst">
             <a href="https://www.instagram.com/"><img src="./assets/icon/instagram.svg
@@ -104,10 +103,9 @@
               <a href="https://instagram.com/"><img src="./assets/img/instagram06.jpg" alt=""></a>
             </div>
           </div>
-        </div>
         <div class="col-wide end">
           <div>
-            <p class="col-wide">Sem comentários • Compartilhe:</p>
+            <p class="col-wide"><b>Sem comentários</b> • Compartilhe:</p>
           </div>
           <div class="send">
             <div class="col-wide">
@@ -116,16 +114,10 @@
               <a href="#"><img src="./assets/icon/whatsapp.svg" alt=""></a>
             </div>
           </div>
-          <div>
-            <p class="col-wide">Aproveite para ler também:</p>
-          </div>
-          <div>
-            <div class="col-wide">
-              <a href="#"><img src="./assets/img/img5.png" alt=""></a>
-              <a href="#"><img src="./assets/img/img6.png" alt=""></a>
-            </div>
-          </div>
+          <h5 class="col-wide">Aproveite para ler também:</h5>
         </div>
+        <a href="#"><img class="img5" src="./assets/img/img5@1,5x.png" alt=""></a>
+        <a href="#"><img class="img6" src="./assets/img/img6@1,5x.png" alt=""></a>
       </main>
       <footer class="footer text-white align-items-center d-flex justify-content-between">
         <p class="p-4">© Damon Huberman - 2021 - Todos os direitos reservados</p>

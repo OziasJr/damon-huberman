@@ -247,6 +247,26 @@ img {
     height: 50px;
 }
 
+.end h5 {
+    margin-bottom: 0;
+}
+
+.img5, .img6 {
+    width: 100vw;
+}
+
+.img5 {
+    grid-column: 1 / 1;
+    grid-row: span 1;
+}
+
+.img6 {
+    grid-column: 2 / 2;
+    grid-row: span 1;
+}
+
+
+
 
 
 
