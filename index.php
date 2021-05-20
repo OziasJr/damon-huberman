@@ -79,25 +79,52 @@
         </div>
         <div>
           <h4 class="facebook">Facebook</h4>
-          <div id="fb-root">
-            <div class="fb-page d-flex justify-content-center" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-width="600" data-height="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+          <div class="fb-page d-flex justify-content-center" 
+            data-href="https://www.facebook.com/facebook"
+            data-width="500" 
+            data-hide-cover="false"
+            data-show-facepile="false">
+          </div>
+        </div>
+        <div class="text-two">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptas, expedita quod sunt consectetur asperiores quo ex cumque vero unde quas debitis fuga. Fugiat harum laudantium aliquid! Quibusdam error odio asperiores itaque voluptas voluptates aut tempore accusamus molestias! Quidem, consequuntur veniam error cum odio enim, repudiandae aspernatur mollitia incidunt vel similique obcaecati reiciendis voluptatem quod nobis, quibusdam corporis ullam accusamus? Quasi tempora provident et, doloribus ipsam optio voluptatibus explicabo. Reprehenderit debitis officia blanditiis ipsum incidunt unde numquam quod nesciunt ab neque. Similique perspiciatis veritatis numquam dolore hic explicabo eaque quidem? Repudiandae, dicta. Commodi minus porro similique accusantium esse necessitatibus sapiente.</p>
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet, id reiciendis. Debitis consectetur sunt placeat quas repellat sint aliquam mollitia sapiente sequi totam et illo dolorem doloremque nulla, modi at iure nostrum ab! Nemo saepe necessitatibus, explicabo, quidem culpa tempora praesentium dolores nisi molestias nesciunt vitae maiores repellat fugit vero exercitationem quia dicta eaque deleniti. Velit, maxime. Tempore molestias provident dolores numquam necessitatibus. Non saepe omnis culpa atque vero eveniet soluta, enim cum pariatur similique cupiditate. Deleniti, cumque unde. Nobis ratione eaque voluptates alias quae, corporis voluptate eius blanditiis cum cupiditate, amet earum culpa labore rerum veritatis. Totam, laborum corporis?</p>
+        </div>
+        <div>
+          <div class="instagram"><h4>My Instagram</h4></div>
+          <div class="inst">
+            <a href="https://www.instagram.com/"><img src="./assets/icon/instagram.svg
+            " alt=""></a>
+            <div class="img-instagram">
+              <a href="https://instagram.com/"><img src="./assets/img/instagram01.jpg" alt=""></a>
+              <a href="https://instagram.com/"><img src="./assets/img/instagram02.jpg" alt=""></a>
+              <a href="https://instagram.com/"><img src="./assets/img/instagram03.jpg" alt=""></a>
+              <a href="https://instagram.com/"><img src="./assets/img/instagram04.jpg" alt=""></a>
+              <a href="https://instagram.com/"><img src="./assets/img/instagram05.jpg" alt=""></a>
+              <a href="https://instagram.com/"><img src="./assets/img/instagram06.jpg" alt=""></a>
             </div>
           </div>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptas, expedita quod sunt consectetur asperiores quo ex cumque vero unde quas debitis fuga. Fugiat harum laudantium aliquid! Quibusdam error odio asperiores itaque voluptas voluptates aut tempore accusamus molestias! Quidem, consequuntur veniam error cum odio enim, repudiandae aspernatur mollitia incidunt vel similique obcaecati reiciendis voluptatem quod nobis, quibusdam corporis ullam accusamus? Quasi tempora provident et, doloribus ipsam optio voluptatibus explicabo. Reprehenderit debitis officia blanditiis ipsum incidunt unde numquam quod nesciunt ab neque. Similique perspiciatis veritatis numquam dolore hic explicabo eaque quidem? Repudiandae, dicta. Commodi minus porro similique accusantium esse necessitatibus sapiente.</p><br>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur reiciendis cumque non iure debitis error atque? Ut, voluptate consequatur unde itaque similique odio nesciunt ipsa a illum repudiandae mollitia labore tenetur ab? In ratione ducimus quae saepe temporibus voluptates nobis consequatur magnam eos, suscipit veritatis commodi delectus a! Modi commodi pariatur molestias dolore repudiandae animi accusamus quibusdam maiores ducimus, soluta, ut aut inventore quod consequuntur iste illo atque, quasi expedita necessitatibus. Consequatur cumque delectus quaerat rem eligendi, id sed asperiores!</p>
-        <p><h4 class="instagram">My Instagram</h4></p>
-        <a href="#">Algun link que redirecione para o YouTube</a>
-        <p class="col-wide">Sem comentários • Compartilhe:</p>
-        <div class="col-wide">
-          <a href="3"><img src="./assets/icon/facebook.svg" alt=""></a>
-          <a href="3"><img src="./assets/icon/twitter.svg" alt=""></a>
-          <a href="3"><img src="./assets/icon/whatsapp.svg" alt=""></a>
-        </div>
-        <p class="col-wide">Aproveite para ler também:</p>
-        <div class="col-wide">
-          <a href="#"><img src="./assets/img/img5.png" alt=""></a>
-          <a href="#"><img src="./assets/img/img6.png" alt=""></a>
+        <div class="col-wide end">
+          <div>
+            <p class="col-wide">Sem comentários • Compartilhe:</p>
+          </div>
+          <div class="send">
+            <div class="col-wide">
+              <a href="https://www.facebook.com/"><img src="./assets/icon/facebook.svg" alt=""></a>
+              <a href="https://twitter.com/"><img src="./assets/icon/twitter.svg" alt=""></a>
+              <a href="#"><img src="./assets/icon/whatsapp.svg" alt=""></a>
+            </div>
+          </div>
+          <div>
+            <p class="col-wide">Aproveite para ler também:</p>
+          </div>
+          <div>
+            <div class="col-wide">
+              <a href="#"><img src="./assets/img/img5.png" alt=""></a>
+              <a href="#"><img src="./assets/img/img6.png" alt=""></a>
+            </div>
+          </div>
         </div>
       </main>
       <footer class="footer text-white align-items-center d-flex justify-content-between">

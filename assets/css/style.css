@@ -155,7 +155,7 @@ img {
 
 .img4 {
     grid-column: 1 / 1;
-    grid-row: span 10;
+    grid-row: span 4;
 }
 
 .category, .subject {
@@ -171,6 +171,10 @@ img {
 .youtube, .facebook, .instagram {
     text-align: center;
     margin-bottom: 0;
+}
+
+.fb-page {
+    margin: auto;
 }
 
 .yt {
@@ -205,6 +209,45 @@ img {
     visibility: visible; 
     height: 48px;
 }
+
+
+
+
+.text-two {
+    line-height: 30px;
+    grid-column: 1 / 1;
+    grid-row: span 2;
+    text-align: justify;
+}
+
+.instagram {
+    grid-column: 2 / 2;
+}
+
+.inst > a > img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
+.end .send > div {
+    display: flex;
+    justify-content: center;
+}
+
+.end .send > div > a + a {
+    margin-left: 30px;
+}
+
+.end .send > div > a > img {
+    width: 50px;
+    height: 50px;
+}
+
+
 
 
 
