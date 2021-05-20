@@ -61,16 +61,32 @@
             <a href="https://www.youtube.com/" target="_blank"><img src="./assets/icon/youtube.svg" alt=""></a>
           </div>
         </div>
-        <a href="#" class="img4"><img src="./assets/img/img4.png" alt=""></a>
-        <p>Navegue nas categorias ▼</p>
-        <p>Navegue nos assuntos ▼</p>
-        <hr><p>YouTube</p><hr>
-        <a href="#">Algun link que redirecione para o YouTube</a>
-        <hr><p>Facebook</p><hr>
-        <a href="#">Algun link que redirecione para o Facebook</a>
+        <a href="#" class="img4"><img src="./assets/img/img4@1,25x.png" alt=""></a>
+        <div class="category">
+          <h4>Navegue nas categorias ▼</h4>
+        </div>
+        <div class="subject">
+          <h4>Navegue nos assuntos ▼</h4>
+        </div>
+        <div>
+          <h4 class="youtube">YouTube</h4>
+          <div class="yt mx-auto d-block">
+            <div class="yt-1" id="___ytsubscribe_4">
+              <iframe class="yt-iframe" ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" tabindex="0" vspace="0" width="100%" id="I4_1621522359824" name="I4_1621522359824" src="https://www.youtube.com/subscribe_embed?usegapi=1&amp;channel=GoogleDevelopers&amp;theme=dark&amp;layout=full&amp;origin=https%3A%2F%2Fdevelopers-dot-devsite-v2-prod.appspot.com&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.pt_BR.jYaYTbtxFm0.O%2Fam%3DAQ%2Fd%3D1%2Frs%3DAGLTcCNda-zkf9FI4FQ66LQdk16g9ifvmg%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I4_1621522359824&amp;_gfid=I4_1621522359824&amp;parent=https%3A%2F%2Fdevelopers-dot-devsite-v2-prod.appspot.com&amp;pfname=&amp;rpctoken=10173252" data-gapiattached="true">
+              </iframe>
+            </div>
+          </div>
+        </div>
+        <div>
+          <h4 class="facebook">Facebook</h4>
+          <div id="fb-root">
+            <div class="fb-page d-flex justify-content-center" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-width="600" data-height="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+            </div>
+          </div>
+        </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptas, expedita quod sunt consectetur asperiores quo ex cumque vero unde quas debitis fuga. Fugiat harum laudantium aliquid! Quibusdam error odio asperiores itaque voluptas voluptates aut tempore accusamus molestias! Quidem, consequuntur veniam error cum odio enim, repudiandae aspernatur mollitia incidunt vel similique obcaecati reiciendis voluptatem quod nobis, quibusdam corporis ullam accusamus? Quasi tempora provident et, doloribus ipsam optio voluptatibus explicabo. Reprehenderit debitis officia blanditiis ipsum incidunt unde numquam quod nesciunt ab neque. Similique perspiciatis veritatis numquam dolore hic explicabo eaque quidem? Repudiandae, dicta. Commodi minus porro similique accusantium esse necessitatibus sapiente.</p><br>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur reiciendis cumque non iure debitis error atque? Ut, voluptate consequatur unde itaque similique odio nesciunt ipsa a illum repudiandae mollitia labore tenetur ab? In ratione ducimus quae saepe temporibus voluptates nobis consequatur magnam eos, suscipit veritatis commodi delectus a! Modi commodi pariatur molestias dolore repudiandae animi accusamus quibusdam maiores ducimus, soluta, ut aut inventore quod consequuntur iste illo atque, quasi expedita necessitatibus. Consequatur cumque delectus quaerat rem eligendi, id sed asperiores!</p>
-        <br><p>My Instagram</p><hr>
+        <p><h4 class="instagram">My Instagram</h4></p>
         <a href="#">Algun link que redirecione para o YouTube</a>
         <p class="col-wide">Sem comentários • Compartilhe:</p>
         <div class="col-wide">
@@ -91,6 +107,10 @@
     </div>
 
 
+
+
+    
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId=284615029380357&autoLogAppEvents=1" nonce="yjSVpQ6O"></script>
     <script src="./assets/js/script.js"></script>
 </body>
 </html>

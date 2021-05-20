@@ -158,17 +158,53 @@ img {
     grid-row: span 10;
 }
 
+.category, .subject {
+    border: 2px solid #000000;
+    padding: 30px;
+}
 
+.category h4, .subject h4 {
+    margin-bottom: 0;
+    text-align: center;
+}
 
+.youtube, .facebook, .instagram {
+    text-align: center;
+    margin-bottom: 0;
+}
 
+.yt {
+    background: #cfcece; 
+    padding: 10px; 
+    width: 500px;
+    height: 200px;
+}
 
+.yt-1 {
+    text-indent: 0px; 
+    margin: 0px; 
+    padding: 0px; 
+    background: transparent; 
+    border-style: none; 
+    float: none; 
+    line-height: normal; 
+    font-size: 1px; 
+    vertical-align: baseline; 
+    display: inline-block; 
+    width: 400px; 
+    height: 100px;
+}
 
-
-
-
-
-
-
+.yt-iframe {
+    position: static; 
+    top: 0px; 
+    width: 180px; 
+    margin: 0px; 
+    border-style: none; 
+    left: 0px; 
+    visibility: visible; 
+    height: 48px;
+}
 
 
 
