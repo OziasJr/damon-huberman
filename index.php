@@ -92,15 +92,15 @@
         </div>
           <div class="instagram"><h4>My Instagram</h4></div>
           <div class="inst">
-            <a href="https://www.instagram.com/"><img src="./assets/icon/instagram.svg
+            <a href="https://www.instagram.com/" target="_blank"><img src="./assets/icon/instagram.svg
             " alt=""></a>
             <div class="img-instagram">
-              <a href="https://instagram.com/"><img src="./assets/img/instagram01.jpg" alt=""></a>
-              <a href="https://instagram.com/"><img src="./assets/img/instagram02.jpg" alt=""></a>
-              <a href="https://instagram.com/"><img src="./assets/img/instagram03.jpg" alt=""></a>
-              <a href="https://instagram.com/"><img src="./assets/img/instagram04.jpg" alt=""></a>
-              <a href="https://instagram.com/"><img src="./assets/img/instagram05.jpg" alt=""></a>
-              <a href="https://instagram.com/"><img src="./assets/img/instagram06.jpg" alt=""></a>
+              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram01.jpg" alt=""></a>
+              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram02.jpg" alt=""></a>
+              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram03.jpg" alt=""></a>
+              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram04.jpg" alt=""></a>
+              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram05.jpg" alt=""></a>
+              <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram06.jpg" alt=""></a>
             </div>
           </div>
         <div class="col-wide end">
@@ -109,9 +109,9 @@
           </div>
           <div class="send">
             <div class="col-wide">
-              <a href="https://www.facebook.com/"><img src="./assets/icon/facebook.svg" alt=""></a>
-              <a href="https://twitter.com/"><img src="./assets/icon/twitter.svg" alt=""></a>
-              <a href="#"><img src="./assets/icon/whatsapp.svg" alt=""></a>
+              <a href="https://www.facebook.com/" target="_blank"><img src="./assets/icon/facebook.svg" alt=""></a>
+              <a href="https://twitter.com/" target="_blank"><img src="./assets/icon/twitter.svg" alt=""></a>
+              <a href="#" target="_blank"><img src="./assets/icon/whatsapp.svg" alt=""></a>
             </div>
           </div>
           <h5 class="col-wide">Aproveite para ler também:</h5>
