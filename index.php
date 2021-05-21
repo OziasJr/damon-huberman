@@ -105,7 +105,7 @@
                 <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram05.jpg" alt=""></a>
                 <a href="https://instagram.com/" target="_blank"><img src="./assets/img/instagram06.jpg" alt=""></a>
               </div>
-              <button type="button" class="btn p-3 btn-primary d-flex mx-auto">Siga-me no instagram</button>
+              <button type="button" class="btn p-3 btn-primary d-flex mx-auto">Siga-me no Instagram</button>
             </div>
           </div>
         <div class="col-wide end">
@@ -121,8 +121,12 @@
           </div>
           <h5 class="col-wide">Aproveite para ler também:</h5>
           <div class="img-end d-flex justify-content-between">
-            <a href="#"><img class="img-fluid img5" src="./assets/img/img5@1,5x.png" alt=""></a>
-            <a href="#"><img class="img-fluid img6" src="./assets/img/img6@1,5x.png" alt=""></a>
+            <div>
+              <a href="#"><img class="img-fluid img5" src="./assets/img/img5@1,5x.png" alt=""></a>
+            </div>
+            <div>
+              <a href="#"><img class="img-fluid img6" src="./assets/img/img6@1,5x.png" alt=""></a>
+            </div>
           </div>
         </div>
       </main>
